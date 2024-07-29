@@ -1,0 +1,8 @@
+
+.last-nav{
+    display: flex;
+    justify-content:flex-end;
+    align-items: flex-end;
+    align-self: flex-end;
+    flex-grow: 1;
+}
